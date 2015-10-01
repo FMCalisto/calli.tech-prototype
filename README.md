@@ -1,2 +1,1 @@
-# calli.tech
-CalliTech WebPage Repository
+# CalliTech Webpage Prototype Repository
